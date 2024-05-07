@@ -1,6 +1,7 @@
-baseurl = "https://www.blackcursive.org"
+baseurl = "https://blackcursive.github.io"
 DefaultContentLanguage = "en"
-title = "Black Cursive - Tech Blog"
+#DefaultContentLanguage = "fr"
+title = "Black Cursive"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
@@ -13,7 +14,7 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [Params]
-#  homeTitle = "Black Cursive - Tech Blog" # Set a different text for the header on the home page
+#  homeTitle = "Black Cursive - Blog" # Set a different text for the header on the home page
   subtitle = "Programming Tutorials, Tips and Solutions"
   mainSections = ["post","posts"]
   logo = "img/author.png" # Expecting square dimensions
