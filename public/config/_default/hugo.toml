@@ -1,4 +1,4 @@
-baseurl = "https://blog.blackcursive.org"
+baseurl = "https://www.blackcursive.org"
 DefaultContentLanguage = "en"
 title = "Black Cursive - Tech Blog"
 theme = "beautifulhugo"
